@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=Welcome🎈&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
+<br>
 ## 🛠 Tech Stack
 <!-- ──────── 언어 & 런타임 ──────── -->
 ![Java](https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -20,14 +21,10 @@
 
 <!-- ──────── CI / CD & 인프라 ──────── -->
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-<!-- ──────── 협업 & 버전 관리 ──────── -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+<br>
 
 ## 📈 Stats
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
