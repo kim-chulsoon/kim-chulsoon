@@ -11,9 +11,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-chulsoon&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=kim-chulsoon&show_icons=true">
  <br>
-<h3 align="center">🌈 Follow Me 🌈</h3>
+<h3 align="center">✍️ Blog </h3>
+ <a href="https://velog.io/@nicnk90"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@nicnk90"/></a>&nbsp
+ <br>
+<h3 align="center">📫 Contact </h3>
 <p align="center">
-  <a href="https://velog.io/@nicnk90"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@nicnk90"/></a>&nbsp
-  <a href="mailto:nicnk90@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=nicnk90@gmail.com"/></a>
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nicnk90@gmail.com)
 </p>
 
