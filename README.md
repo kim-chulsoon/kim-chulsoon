@@ -14,6 +14,6 @@
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://velog.io/@nicnk90"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@nicnk90"/></a>&nbsp
-  <a href="mailto:nicnk90@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=20200803@gmail.com"/></a>
-</p>>
+  <a href="mailto:nicnk90@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=nicnk90@gmail.com"/></a>
+</p>
 
